@@ -1,0 +1,4002 @@
+data.json
+{
+  "users": {
+    "774127719": {
+      "start_time": 1717695022.4365158,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "648305412": {
+      "start_time": 1716798311.5988536,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "785561885": {
+      "start_time": 1716798276.4676032,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1748441153": {
+      "start_time": 1711714288.5125566,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "786981474": {
+      "start_time": 1711714302.620615,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "5031137337": {
+      "start_time": 1711714641.5696383,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1302063263": {
+      "start_time": 1711715469.8942163,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "701016212": {
+      "start_time": 1711716098.0309443,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "248566344": {
+      "start_time": 1711717232.117409,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1920528275": {
+      "start_time": 1711718098.1204536,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "5885148008": {
+      "start_time": 1711718118.6101196,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "6289860032": {
+      "start_time": 1711722117.7736323,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "586671526": {
+      "start_time": 1711727604.3780084,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "343482458": {
+      "start_time": 1711732956.1202426,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "557547825": {
+      "start_time": 1711791097.5006907,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "294720083": {
+      "start_time": 1711791116.4027023,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "391968657": {
+      "start_time": 1711791129.8421378,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "439405139": {
+      "start_time": 1711791646.6736963,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "372691818": {
+      "start_time": 1711792682.1822262,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "496084129": {
+      "start_time": 1711796207.6532464,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "65987590": {
+      "start_time": 1711797808.3924308,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "238934507": {
+      "start_time": 1711799778.2874334,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "255497295": {
+      "start_time": 1711800499.8133497,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1307116683": {
+      "start_time": 1711800682.6565988,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1250346472": {
+      "start_time": 1711800869.8834176,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "236869288": {
+      "start_time": 1711801655.6502473,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1840347901": {
+      "start_time": 1711802221.9881136,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "374343221": {
+      "start_time": 1711804075.4036078,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "2119071122": {
+      "start_time": 1711805158.95753,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "497836371": {
+      "start_time": 1711805231.9155476,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "5541906089": {
+      "start_time": 1711806076.4561937,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "851929273": {
+      "start_time": 1711806776.0496955,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1065774117": {
+      "start_time": 1711807206.189415,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "318581768": {
+      "start_time": 1711808297.7525842,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "831734650": {
+      "start_time": 1711813468.6140926,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1322798245": {
+      "start_time": 1711820250.6234493,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "6260261148": {
+      "start_time": 1711821830.6319277,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "864482035": {
+      "start_time": 1711841088.463252,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "916168771": {
+      "start_time": 1711869639.7465687,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "5440182348": {
+      "start_time": 1711886519.588861,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1706368425": {
+      "start_time": 1711886589.6057673,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "5601851838": {
+      "start_time": 1711887400.1327624,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "969009728": {
+      "start_time": 1711888189.9238214,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "218501507": {
+      "start_time": 1711889480.9573853,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1475374338": {
+      "start_time": 1711889666.9858887,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "650116970": {
+      "start_time": 1711889750.9066951,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "5162994334": {
+      "start_time": 1711894286.6266522,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "763481314": {
+      "start_time": 1711897790.542071,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "6821637955": {
+      "start_time": 1711902335.146712,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1218201960": {
+      "start_time": 1711908555.9372292,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1852003706": {
+      "start_time": 1711937500.9817944,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "830596223": {
+      "start_time": 1711948143.360875,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1698789654": {
+      "start_time": 1711949570.6470182,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "293145392": {
+      "start_time": 1711951750.3389573,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "597598540": {
+      "start_time": 1711963094.7431276,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "640091857": {
+      "start_time": 1711965776.01468,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "5145126430": {
+      "start_time": 1711976004.1867378,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "293122187": {
+      "start_time": 1711994257.5895212,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "450450213": {
+      "start_time": 1712004783.6410582,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "5737464870": {
+      "start_time": 1712020839.9131021,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "664643792": {
+      "start_time": 1712039718.4991,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "432954147": {
+      "start_time": 1712047109.215408,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "875411157": {
+      "start_time": 1712047678.488036,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "479946440": {
+      "start_time": 1712047800.636321,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "292380185": {
+      "start_time": 1712048009.1375563,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "996220433": {
+      "start_time": 1712054546.6567569,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "883693607": {
+      "start_time": 1712058006.5467618,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "6723460107": {
+      "start_time": 1712078066.340694,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1172809214": {
+      "start_time": 1712124286.8791914,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "260023871": {
+      "start_time": 1712143161.3079376,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "311356009": {
+      "start_time": 1712150690.4114416,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "741096176": {
+      "start_time": 1712159492.3597994,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "878523175": {
+      "start_time": 1712181316.12926,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "451651038": {
+      "start_time": 1712215722.3986259,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "997645451": {
+      "start_time": 1712242467.000858,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "901028987": {
+      "start_time": 1712290966.1932611,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "478483429": {
+      "start_time": 1712389297.0232816,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "100803608": {
+      "start_time": 1712412561.0469198,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "2108702349": {
+      "start_time": 1712470577.6655085,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "938674874": {
+      "start_time": 1712650406.179347,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1325046247": {
+      "start_time": 1713141906.1682866,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1637304914": {
+      "start_time": 1713263770.9215395,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "6268641729": {
+      "start_time": 1713272991.781412,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "471077694": {
+      "start_time": 1713711825.1317697,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1448073091": {
+      "start_time": 1713972950.3747547,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "527992483": {
+      "start_time": 1714220717.7560112,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "966427071": {
+      "start_time": 1718037287.4987874,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "5027689940": {
+      "start_time": 1715005252.8952186,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "297270880": {
+      "start_time": 1715770971.9742937,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "626367096": {
+      "start_time": 1716358225.2223024,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "984156369": {
+      "start_time": 1716740361.604383,
+      "start_bot": true,
+      "complete_questions": false
+    }
+  },
+  "statistic": {
+    "started": 91,
+    "finished": 0
+  }
+}
+
+
+
+
+Last login: Fri May 31 16:41:16 on ttys000
+nikitos_metla@Nikitas-MacBook-Air ~ % ssh root@147.45.150.170
+root@147.45.150.170's password:
+Welcome to Ubuntu 22.04.4 LTS (GNU/Linux 5.15.0-101-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/pro
+
+  System information as of Fri May 31 04:42:42 PM MSK 2024
+
+  System load:  0.0                Processes:             107
+  Usage of /:   13.7% of 49.12GB   Users logged in:       0
+  Memory usage: 13%                IPv4 address for eth0: 147.45.150.170
+  Swap usage:   0%                 IPv6 address for eth0: 2a03:6f00:a::ac8
+
+ * Strictly confined Kubernetes makes edge and IoT secure. Learn how MicroK8s
+   just raised the bar for easy, resilient and secure K8s cluster deployment.
+
+   https://ubuntu.com/engage/secure-kubernetes-at-the-edge
+
+Expanded Security Maintenance for Applications is not enabled.
+
+16 updates can be applied immediately.
+To see these additional updates run: apt list --upgradable
+
+Enable ESM Apps to receive additional future security updates.
+See https://ubuntu.com/esm or run: sudo pro status
+
+
+*** System restart required ***
+Last login: Fri May 31 16:40:56 2024 from 176.195.165.125
+root@2766719-xn41013:~# cd
+.ansible/                  snap/
+.cache/                    .ssh/
+Nikitos_Daniil_design_bot/
+root@2766719-xn41013:~# cd Nikitos_Daniil_design_bot
+root@2766719-xn41013:~/Nikitos_Daniil_design_bot# cd
+data/        handlers/    __pycache__/ .venv/
+.git/        .idea/       utils/
+root@2766719-xn41013:~/Nikitos_Daniil_design_bot# cd data
+root@2766719-xn41013:~/Nikitos_Daniil_design_bot/data# cd users_data
+root@2766719-xn41013:~/Nikitos_Daniil_design_bot/data/users_data# cat design_level.json
+{
+  "users": {
+    "774127719": {
+      "start_time": 1715624353.8700986,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "648305412": {
+      "start_time": 1716798222.1795886,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "785561885": {
+      "start_time": 1711706186.8140728,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "427838394": {
+      "start_time": 1711713823.2138731,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "441538834": {
+      "start_time": 1711713825.1236334,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "2094823726": {
+      "start_time": 1711713912.0243337,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "234783286": {
+      "start_time": 1711713920.2291667,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "208313772": {
+      "start_time": 1711714010.4451663,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "271227517": {
+      "start_time": 1711714112.9941723,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "446821174": {
+      "start_time": 1711714156.521873,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "5209107486": {
+      "start_time": 1711714223.0053284,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1748441153": {
+      "start_time": 1711714259.2583003,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "739454470": {
+      "start_time": 1711714431.7705226,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "447993599": {
+      "start_time": 1711714498.4053197,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "508506136": {
+      "start_time": 1711714606.4178514,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "5031137337": {
+      "start_time": 1711714724.6191301,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1202759678": {
+      "start_time": 1711716812.010776,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1920528275": {
+      "start_time": 1711717567.8806846,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "5398197872": {
+      "start_time": 1711717646.768513,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "5320420389": {
+      "start_time": 1711720041.5907552,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "492812699": {
+      "start_time": 1711721274.262233,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "467012618": {
+      "start_time": 1711721542.0480425,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1051259852": {
+      "start_time": 1711721742.8301268,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "85054578": {
+      "start_time": 1711721824.9186893,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "6289860032": {
+      "start_time": 1711722128.4887626,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "2096069170": {
+      "start_time": 1711724556.6461744,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "991178671": {
+      "start_time": 1711726934.5164194,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "413962537": {
+      "start_time": 1711727902.6034617,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "525573014": {
+      "start_time": 1711728861.135946,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "343482458": {
+      "start_time": 1711732721.1451445,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "798641641": {
+      "start_time": 1711735507.658742,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "455654168": {
+      "start_time": 1711737867.6605787,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "369961201": {
+      "start_time": 1711738557.971583,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "766819752": {
+      "start_time": 1711741589.8473182,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "284684701": {
+      "start_time": 1711742592.5748565,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "5827381630": {
+      "start_time": 1711767953.3409722,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "834317663": {
+      "start_time": 1711783606.372052,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1643714973": {
+      "start_time": 1711788381.3090851,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1437795279": {
+      "start_time": 1711790644.2410357,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "262489743": {
+      "start_time": 1711791092.030923,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "48760783": {
+      "start_time": 1711791194.1206193,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "609737942": {
+      "start_time": 1711791234.0486178,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "419259625": {
+      "start_time": 1711791240.7328744,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "358239868": {
+      "start_time": 1711791445.2510586,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "422769370": {
+      "start_time": 1711791627.4016855,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1205359745": {
+      "start_time": 1711791755.5954478,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "224427444": {
+      "start_time": 1711791816.9747202,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "322988033": {
+      "start_time": 1711791850.7213748,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "400735024": {
+      "start_time": 1711792252.2324831,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1488269448": {
+      "start_time": 1711793527.2248466,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "670257855": {
+      "start_time": 1711793947.6210656,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "720344104": {
+      "start_time": 1711795240.8876126,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "398100108": {
+      "start_time": 1711796044.7961957,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "982961055": {
+      "start_time": 1711797394.2035604,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "498239117": {
+      "start_time": 1711798143.6311285,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "154758179": {
+      "start_time": 1711800062.2600389,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1367366160": {
+      "start_time": 1711800133.8423347,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "5627580951": {
+      "start_time": 1711800605.02116,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "125003122": {
+      "start_time": 1711800833.3585944,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "5123614695": {
+      "start_time": 1711800971.8565817,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "798077849": {
+      "start_time": 1711801016.3997858,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "832658514": {
+      "start_time": 1711801125.1463838,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "433802226": {
+      "start_time": 1711801180.135498,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "423223297": {
+      "start_time": 1711801147.6270285,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1041408532": {
+      "start_time": 1711801487.1680949,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "437642402": {
+      "start_time": 1711801593.1281517,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "2142441156": {
+      "start_time": 1711801618.4521806,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "236869288": {
+      "start_time": 1711801626.5735536,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1063984734": {
+      "start_time": 1711801656.6605608,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "379977359": {
+      "start_time": 1711801793.3624306,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "693975": {
+      "start_time": 1711801822.1189692,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "359401636": {
+      "start_time": 1711801872.1304274,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "617537": {
+      "start_time": 1711801872.715907,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "504110740": {
+      "start_time": 1711801922.3024259,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1223900654": {
+      "start_time": 1711802845.0257452,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "861028005": {
+      "start_time": 1711802560.9531937,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "955521394": {
+      "start_time": 1711804616.2972782,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "5541906089": {
+      "start_time": 1711805677.102606,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "318581768": {
+      "start_time": 1711808292.3817072,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1387633357": {
+      "start_time": 1711809843.8214393,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1174967123": {
+      "start_time": 1711810514.5385509,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "401238742": {
+      "start_time": 1711812790.6558754,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "355112577": {
+      "start_time": 1711813921.3537536,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "285220575": {
+      "start_time": 1711814939.1658807,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "333078636": {
+      "start_time": 1711822052.813685,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "691633718": {
+      "start_time": 1711822105.928467,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "859915241": {
+      "start_time": 1711834480.4699798,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "257414506": {
+      "start_time": 1711835282.3026197,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "963281018": {
+      "start_time": 1711837750.8406534,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "472225451": {
+      "start_time": 1711867204.8604767,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "979302264": {
+      "start_time": 1711871715.8848944,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "918819819": {
+      "start_time": 1711876137.0384629,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1089056730": {
+      "start_time": 1711876261.6225739,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "344270741": {
+      "start_time": 1711878591.9186056,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "852524902": {
+      "start_time": 1711886434.4250844,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "5440182348": {
+      "start_time": 1711886540.902311,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "454924221": {
+      "start_time": 1711886541.4265478,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "2136158709": {
+      "start_time": 1711887589.140594,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "615771417": {
+      "start_time": 1711888871.2371538,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "5806789300": {
+      "start_time": 1711889113.996281,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "521028485": {
+      "start_time": 1711889123.0052445,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "628025224": {
+      "start_time": 1711891039.0450232,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "441426089": {
+      "start_time": 1711893065.674759,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "997479086": {
+      "start_time": 1711894556.496499,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "763481314": {
+      "start_time": 1711897820.7071586,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "293989719": {
+      "start_time": 1711912316.506226,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "869530019": {
+      "start_time": 1711916211.8893144,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "436606234": {
+      "start_time": 1711922452.4954607,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "446320967": {
+      "start_time": 1711951591.205031,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "390341425": {
+      "start_time": 1711961209.9030886,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "597598540": {
+      "start_time": 1711962736.3596485,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "48608783": {
+      "start_time": 1711964474.2113361,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1414745882": {
+      "start_time": 1711975082.4486306,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "257012429": {
+      "start_time": 1711990202.0216284,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "6604463902": {
+      "start_time": 1711990311.5994291,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "293122187": {
+      "start_time": 1711994112.0452254,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "285699104": {
+      "start_time": 1711994224.913146,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "975884256": {
+      "start_time": 1712001001.401174,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "778364076": {
+      "start_time": 1712027682.4990275,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1521791703": {
+      "start_time": 1712038604.3899887,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1448113504": {
+      "start_time": 1712047269.0034268,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "875411157": {
+      "start_time": 1712047467.7713115,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "479946440": {
+      "start_time": 1712047591.3531086,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "421925560": {
+      "start_time": 1712047890.622042,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "292380185": {
+      "start_time": 1712048166.8585675,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "405346975": {
+      "start_time": 1712049785.2590566,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "889888373": {
+      "start_time": 1712050773.7812421,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "380056364": {
+      "start_time": 1712054431.377332,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "442184613": {
+      "start_time": 1712059283.329766,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "718889291": {
+      "start_time": 1712060000.5603268,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "375827959": {
+      "start_time": 1712061680.893387,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "293221444": {
+      "start_time": 1712065096.705608,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "67251174": {
+      "start_time": 1712065276.4851048,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "990767204": {
+      "start_time": 1712071328.2684183,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1738924995": {
+      "start_time": 1712077539.8757625,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "5119874730": {
+      "start_time": 1712078005.4224758,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "177599935": {
+      "start_time": 1712085315.2839365,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1065203682": {
+      "start_time": 1712133929.974045,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "988083284": {
+      "start_time": 1712139963.8378913,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "741096176": {
+      "start_time": 1712159264.5800729,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "6909877050": {
+      "start_time": 1712164171.3741634,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "227083648": {
+      "start_time": 1712168770.1007843,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "496240394": {
+      "start_time": 1712168905.7634368,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "498491580": {
+      "start_time": 1712170000.7801983,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "451651038": {
+      "start_time": 1712215738.1535199,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1398857771": {
+      "start_time": 1712237049.1244493,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "140690986": {
+      "start_time": 1712252846.3648076,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "525862292": {
+      "start_time": 1712258326.816833,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "297163099": {
+      "start_time": 1712302023.7907658,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "5670756097": {
+      "start_time": 1712337480.9536612,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "152699380": {
+      "start_time": 1712337649.2468836,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "478483429": {
+      "start_time": 1712389464.4760938,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "836113050": {
+      "start_time": 1712396952.4556065,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "358098382": {
+      "start_time": 1712410926.0916953,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "756512607": {
+      "start_time": 1712412225.63462,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "100803608": {
+      "start_time": 1712412247.3866782,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "818686018": {
+      "start_time": 1712557510.3804574,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "219220530": {
+      "start_time": 1712558721.2875082,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "113486071": {
+      "start_time": 1712662243.2327094,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "6224924712": {
+      "start_time": 1712737531.327692,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "222647895": {
+      "start_time": 1712751286.8445165,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1284314552": {
+      "start_time": 1712763464.7138324,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1565214379": {
+      "start_time": 1712832815.6840694,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "645090365": {
+      "start_time": 1713009163.828635,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "6268641729": {
+      "start_time": 1713272636.7352176,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "2011037334": {
+      "start_time": 1713334686.2074091,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "471077694": {
+      "start_time": 1713712141.874914,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "527992483": {
+      "start_time": 1714220759.5802026,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "966427071": {
+      "start_time": 1714681157.4545293,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "269629986": {
+      "start_time": 1714723445.2620962,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "889904181": {
+      "start_time": 1715951825.35619,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1706368425": {
+      "start_time": 1716167973.2800794,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "984156369": {
+      "start_time": 1716740134.9335155,
+      "start_bot": true,
+      "complete_questions": true
+    }
+  },
+  "statistic": {
+    "started": 173,
+    "finished": 97
+  }
+}root@2766719-xn41013:~/Nikitos_Daniil_design_bot/data/users_data# cat earnings_level.json
+cat: dearnings_level.json: No such file or directory
+root@2766719-xn41013:~/Nikitos_Daniil_design_bot/data/users_data# cat earnings_level.json
+{
+  "users": {
+    "774127719": {
+      "start_time": 1713872311.5505693,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "648305412": {
+      "start_time": 1711668192.540045,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "785561885": {
+      "start_time": 1711706002.7420483,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "640009256": {
+      "start_time": 1711713811.6395402,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "5093027886": {
+      "start_time": 1711713862.6047711,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "477041735": {
+      "start_time": 1711713892.6868207,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1443298797": {
+      "start_time": 1711714020.5500941,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "956384500": {
+      "start_time": 1711714085.4463167,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "2094823726": {
+      "start_time": 1711714097.2122872,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "355073690": {
+      "start_time": 1711714129.9028785,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "5773671040": {
+      "start_time": 1711714143.3845282,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "827564906": {
+      "start_time": 1711714163.8924165,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "724340765": {
+      "start_time": 1711714222.9590855,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1748441153": {
+      "start_time": 1711714240.1943028,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "446821174": {
+      "start_time": 1711714267.161826,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "655118137": {
+      "start_time": 1711714294.407881,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "698128376": {
+      "start_time": 1711714629.222483,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "540184983": {
+      "start_time": 1711714817.0503733,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "447993599": {
+      "start_time": 1711715121.9258552,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "387589656": {
+      "start_time": 1711714975.8696842,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "726260232": {
+      "start_time": 1711715048.5463512,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "576976126": {
+      "start_time": 1711715057.3619366,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "840834718": {
+      "start_time": 1711715328.3170683,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "348517051": {
+      "start_time": 1711715668.6597726,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "701016212": {
+      "start_time": 1711715909.6221726,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "6086796958": {
+      "start_time": 1711716018.853284,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1827564418": {
+      "start_time": 1711716234.1662655,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "248566344": {
+      "start_time": 1711717252.4364915,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "247292181": {
+      "start_time": 1711717679.704971,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "406354486": {
+      "start_time": 1711717881.8913536,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1920528275": {
+      "start_time": 1711717893.6327162,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "996860882": {
+      "start_time": 1711717948.8128438,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "458297906": {
+      "start_time": 1711718047.0435884,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "117188288": {
+      "start_time": 1711718057.6447294,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "5885148008": {
+      "start_time": 1711718090.2052388,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "401428196": {
+      "start_time": 1711718133.1419957,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "724764024": {
+      "start_time": 1711718143.5457509,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "5717648642": {
+      "start_time": 1711718190.4445684,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "513189600": {
+      "start_time": 1711718511.7414758,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "5228095191": {
+      "start_time": 1711718830.5384107,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "5343742264": {
+      "start_time": 1711719734.0902586,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "780541796": {
+      "start_time": 1711720583.5270565,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "226057297": {
+      "start_time": 1711721207.7209778,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "467012618": {
+      "start_time": 1711721689.9841106,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "313949366": {
+      "start_time": 1711721859.6105006,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "965653132": {
+      "start_time": 1711722342.1142182,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "703612716": {
+      "start_time": 1711722554.1089482,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "221480798": {
+      "start_time": 1711722608.4887426,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "35418382": {
+      "start_time": 1711722861.8632941,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "383835953": {
+      "start_time": 1711723672.712046,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "2096069170": {
+      "start_time": 1711724227.8397236,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1601381317": {
+      "start_time": 1711728920.6816938,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "586671526": {
+      "start_time": 1711727724.8351634,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "53839990": {
+      "start_time": 1711730627.1772728,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "343482458": {
+      "start_time": 1711732226.8331363,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1152987512": {
+      "start_time": 1711735740.9904726,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "700154426": {
+      "start_time": 1711736157.773568,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "766819752": {
+      "start_time": 1711741473.9005737,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "284684701": {
+      "start_time": 1711742297.4734573,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1796892668": {
+      "start_time": 1711742589.5956173,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "441148046": {
+      "start_time": 1711752121.8176374,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1505317053": {
+      "start_time": 1711778687.3390455,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "855775502": {
+      "start_time": 1711783572.6632001,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "6063942379": {
+      "start_time": 1711785306.1004877,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "366255985": {
+      "start_time": 1711788497.3916469,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "363082762": {
+      "start_time": 1711789472.027503,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "417622591": {
+      "start_time": 1711789724.5023906,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "5409904940": {
+      "start_time": 1711790017.7871053,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "864725110": {
+      "start_time": 1711790186.3592591,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "768133952": {
+      "start_time": 1711790235.7294507,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "946092343": {
+      "start_time": 1711790700.1445298,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "459119509": {
+      "start_time": 1711791085.9282968,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "557547825": {
+      "start_time": 1711791125.4508462,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "48760783": {
+      "start_time": 1711791130.497291,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "356344907": {
+      "start_time": 1711791133.6924024,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "421925560": {
+      "start_time": 1712047631.4276736,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1534603412": {
+      "start_time": 1711791382.1522443,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "735275809": {
+      "start_time": 1711791391.9496899,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "791124790": {
+      "start_time": 1711791426.8705053,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "36436905": {
+      "start_time": 1711791441.608314,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1016282567": {
+      "start_time": 1711791458.4420915,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "250953769": {
+      "start_time": 1711791528.956779,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "262489743": {
+      "start_time": 1711791580.1916502,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1228201437": {
+      "start_time": 1711791801.0240152,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "419259625": {
+      "start_time": 1711791816.752288,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1406004637": {
+      "start_time": 1711791896.5989578,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "788136694": {
+      "start_time": 1711792307.1285987,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "545287258": {
+      "start_time": 1711792371.1119184,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "363772516": {
+      "start_time": 1711792534.4819949,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "604847314": {
+      "start_time": 1711792683.7323115,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "317765230": {
+      "start_time": 1711792710.7868621,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "337445390": {
+      "start_time": 1711793056.9867845,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "240567364": {
+      "start_time": 1711793221.4496903,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "281291491": {
+      "start_time": 1711793481.9762144,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "670257855": {
+      "start_time": 1711793784.2181263,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "889904181": {
+      "start_time": 1711793939.5686593,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "135351568": {
+      "start_time": 1711794230.2381241,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "355973933": {
+      "start_time": 1711794237.1314545,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "715449262": {
+      "start_time": 1711794308.2918005,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "55012174": {
+      "start_time": 1711795260.824173,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "141571513": {
+      "start_time": 1711795509.1384988,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "489978665": {
+      "start_time": 1711795534.6244009,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "933294956": {
+      "start_time": 1711795912.7043173,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "496084129": {
+      "start_time": 1711796030.0441756,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "851396698": {
+      "start_time": 1711796089.3832166,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "65987590": {
+      "start_time": 1711797832.069104,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "653971755": {
+      "start_time": 1711798387.6362352,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "752476085": {
+      "start_time": 1711798894.1348872,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "741852882": {
+      "start_time": 1711799328.6378236,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "238934507": {
+      "start_time": 1711799477.6267061,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "638065673": {
+      "start_time": 1711799701.1111515,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1079541758": {
+      "start_time": 1711800212.115328,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1848248503": {
+      "start_time": 1711800274.910305,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "154758179": {
+      "start_time": 1711800465.3203216,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "736114046": {
+      "start_time": 1711800760.8238788,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "2021426239": {
+      "start_time": 1711800972.286229,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "708281934": {
+      "start_time": 1711801017.5560608,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "125003122": {
+      "start_time": 1711801042.0040085,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "690877135": {
+      "start_time": 1711801343.289748,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "433802226": {
+      "start_time": 1711801378.953807,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "798077849": {
+      "start_time": 1711801432.596804,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "581192365": {
+      "start_time": 1711801620.5746706,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "472486177": {
+      "start_time": 1711801635.506892,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1041408532": {
+      "start_time": 1711801680.0402696,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "504110740": {
+      "start_time": 1711801712.156667,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "274768805": {
+      "start_time": 1711801909.5575724,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1250346472": {
+      "start_time": 1711801936.8350875,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1949612737": {
+      "start_time": 1711801969.4346423,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "799015065": {
+      "start_time": 1711802072.9898827,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "471922158": {
+      "start_time": 1711802193.5390391,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "846840339": {
+      "start_time": 1711802244.489395,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "861028005": {
+      "start_time": 1711802323.1944008,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1223900654": {
+      "start_time": 1711802862.4968548,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "381579077": {
+      "start_time": 1711802865.3510652,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1349882572": {
+      "start_time": 1711802944.4316597,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "645992909": {
+      "start_time": 1711803136.209006,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "606705038": {
+      "start_time": 1711803382.1024356,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "317504974": {
+      "start_time": 1711803441.0519845,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "5758864": {
+      "start_time": 1711803656.7995894,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "374343221": {
+      "start_time": 1711804048.2045019,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1083148702": {
+      "start_time": 1711804253.183109,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "955521394": {
+      "start_time": 1711804370.4700189,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "544212928": {
+      "start_time": 1711804451.2895403,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "2081787046": {
+      "start_time": 1711805314.8383107,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "57514238": {
+      "start_time": 1711805734.85929,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "5541906089": {
+      "start_time": 1711805898.5125945,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1624701840": {
+      "start_time": 1711805900.615808,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "394937009": {
+      "start_time": 1711806042.443759,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "210274966": {
+      "start_time": 1711806117.170273,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "388975589": {
+      "start_time": 1711807878.3297124,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1063984734": {
+      "start_time": 1711809760.1534855,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "358026569": {
+      "start_time": 1711811410.1645415,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1741831949": {
+      "start_time": 1711812011.777248,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "810498377": {
+      "start_time": 1711812029.4900825,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "881496947": {
+      "start_time": 1711812183.0161996,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "568505704": {
+      "start_time": 1711812299.3494341,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "348768281": {
+      "start_time": 1711812518.5348904,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1098457084": {
+      "start_time": 1711814159.2668865,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "5736885142": {
+      "start_time": 1711814432.0356286,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1040648857": {
+      "start_time": 1711817871.3747277,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "874782263": {
+      "start_time": 1711818554.3322248,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1322798245": {
+      "start_time": 1711820211.1872084,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "5027017496": {
+      "start_time": 1711825406.9473236,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "562768715": {
+      "start_time": 1711827140.864836,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1001500780": {
+      "start_time": 1711827366.2413583,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "317862671": {
+      "start_time": 1711828735.759362,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "257414506": {
+      "start_time": 1711835501.7335021,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "418235745": {
+      "start_time": 1711840291.0395122,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "620048966": {
+      "start_time": 1711849067.3037348,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "278081749": {
+      "start_time": 1711857052.904168,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1101383834": {
+      "start_time": 1711858903.77716,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1279406485": {
+      "start_time": 1711863771.1801283,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "472225451": {
+      "start_time": 1711867389.7707238,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1949143395": {
+      "start_time": 1711868540.925087,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "185010054": {
+      "start_time": 1711871842.7875457,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "5354408636": {
+      "start_time": 1711874525.3768122,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "449958648": {
+      "start_time": 1711874762.2310848,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "5157116860": {
+      "start_time": 1711874815.275935,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1027247226": {
+      "start_time": 1711875312.8381684,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "274630796": {
+      "start_time": 1711875503.5364652,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "859915241": {
+      "start_time": 1711876275.5070946,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1089056730": {
+      "start_time": 1711876486.657408,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "508198317": {
+      "start_time": 1711876635.2814922,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "344270741": {
+      "start_time": 1711878371.3430533,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "655258502": {
+      "start_time": 1711880966.0007315,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "549858890": {
+      "start_time": 1711882727.3624578,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1360300204": {
+      "start_time": 1711886453.5252368,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "455378505": {
+      "start_time": 1711886481.0258698,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "970439612": {
+      "start_time": 1711886483.6807408,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "250699071": {
+      "start_time": 1711886589.3948007,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "253259477": {
+      "start_time": 1711886540.3718803,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1706368425": {
+      "start_time": 1711886596.272051,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1290886283": {
+      "start_time": 1711886661.3559208,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "129698213": {
+      "start_time": 1711886886.519788,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "438225922": {
+      "start_time": 1711887038.8591828,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "761348436": {
+      "start_time": 1711887298.5425665,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "2136158709": {
+      "start_time": 1711887599.0335076,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "5050270945": {
+      "start_time": 1711887633.9495108,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1299966315": {
+      "start_time": 1711887671.4314704,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "450413727": {
+      "start_time": 1711887845.1986601,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "969009728": {
+      "start_time": 1711888134.149095,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1919121912": {
+      "start_time": 1711888644.3716986,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "615771417": {
+      "start_time": 1711888719.5129704,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "218501507": {
+      "start_time": 1711889092.2175915,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "499164422": {
+      "start_time": 1711889726.0374804,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "650116970": {
+      "start_time": 1711889778.3526957,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "233148008": {
+      "start_time": 1711889808.1730344,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "987367701": {
+      "start_time": 1711889869.4750848,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "217581033": {
+      "start_time": 1711891161.3727612,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "387698611": {
+      "start_time": 1711891400.8583689,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "844164967": {
+      "start_time": 1711891433.729885,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "628025224": {
+      "start_time": 1711892460.3763735,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1046701599": {
+      "start_time": 1711892502.3443766,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "6654577849": {
+      "start_time": 1711892508.05017,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "441426089": {
+      "start_time": 1711893261.0509932,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "764298991": {
+      "start_time": 1711894224.5288525,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "997479086": {
+      "start_time": 1711894589.5734098,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "5587098039": {
+      "start_time": 1711894808.6269007,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "232873500": {
+      "start_time": 1711898458.2717047,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "221584708": {
+      "start_time": 1711901744.728351,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "351307798": {
+      "start_time": 1711905984.8059075,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1781466576": {
+      "start_time": 1711910581.0640562,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "922001283": {
+      "start_time": 1711911985.0793746,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "389450595": {
+      "start_time": 1711918532.6121383,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "5211331": {
+      "start_time": 1711932535.7095063,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1852003706": {
+      "start_time": 1711937338.109225,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "709699020": {
+      "start_time": 1711937472.7409875,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1142056639": {
+      "start_time": 1711941515.739282,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "872373905": {
+      "start_time": 1711942844.2443023,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "216339782": {
+      "start_time": 1711944911.7222495,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "830596223": {
+      "start_time": 1711948172.7522364,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "388081557": {
+      "start_time": 1711949950.691562,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "588042099": {
+      "start_time": 1711951317.015452,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1415653558": {
+      "start_time": 1711951542.2620971,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "599365841": {
+      "start_time": 1711952276.5023518,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "5242992088": {
+      "start_time": 1711952874.0559325,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "687773179": {
+      "start_time": 1711955032.6743104,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "140405653": {
+      "start_time": 1711955129.501259,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "405069873": {
+      "start_time": 1711955325.7024527,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "238782709": {
+      "start_time": 1711957095.4089487,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "57627159": {
+      "start_time": 1711959528.828901,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "641685527": {
+      "start_time": 1711960537.3503032,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "647990755": {
+      "start_time": 1711960763.531436,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "5275679603": {
+      "start_time": 1711960981.8176181,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "183536957": {
+      "start_time": 1711962863.8645804,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1627986852": {
+      "start_time": 1711962911.607222,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "938981785": {
+      "start_time": 1711962966.5947056,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "597598540": {
+      "start_time": 1711963193.064046,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "2051583247": {
+      "start_time": 1711969218.4808767,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "315881287": {
+      "start_time": 1711969285.3709326,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1516855190": {
+      "start_time": 1711971529.4033122,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "717875984": {
+      "start_time": 1711977000.4335265,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "174218356": {
+      "start_time": 1711977868.3846214,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "6190922827": {
+      "start_time": 1711982292.147971,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1497340434": {
+      "start_time": 1711985606.217067,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "240722294": {
+      "start_time": 1711989262.8688366,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "736077170": {
+      "start_time": 1711990930.8407125,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "975884256": {
+      "start_time": 1712001264.9711022,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "273401990": {
+      "start_time": 1712002733.0365937,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "6209808596": {
+      "start_time": 1712003657.4830906,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "5737464870": {
+      "start_time": 1712020881.1978247,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "778364076": {
+      "start_time": 1712027573.2200966,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "466040991": {
+      "start_time": 1712035989.830702,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "505547328": {
+      "start_time": 1712046240.992665,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "924376074": {
+      "start_time": 1712047037.6354706,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "688716373": {
+      "start_time": 1712047049.6154757,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1132297868": {
+      "start_time": 1712047060.739209,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "5467422221": {
+      "start_time": 1712047072.9346395,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "738640269": {
+      "start_time": 1712047117.446565,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "661460140": {
+      "start_time": 1712047140.295739,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "432954147": {
+      "start_time": 1712047147.402008,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "875411157": {
+      "start_time": 1712047149.9095502,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "771504763": {
+      "start_time": 1712047166.744679,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "479946440": {
+      "start_time": 1712047408.5374105,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "253536506": {
+      "start_time": 1712047493.0631871,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "63570199": {
+      "start_time": 1712047497.441175,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "299186191": {
+      "start_time": 1712047705.7075953,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "2100414841": {
+      "start_time": 1712047763.9411647,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "172870433": {
+      "start_time": 1712048019.657047,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "393633871": {
+      "start_time": 1712048563.650233,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "599971984": {
+      "start_time": 1712048972.7688644,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "154800899": {
+      "start_time": 1712049680.6429758,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "824077397": {
+      "start_time": 1712050055.2638092,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1350440839": {
+      "start_time": 1712050263.8014963,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "127141722": {
+      "start_time": 1712050865.1338124,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1904640": {
+      "start_time": 1712051708.8188965,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1855039529": {
+      "start_time": 1712052729.6153018,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "996220433": {
+      "start_time": 1712053796.3746967,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "883693607": {
+      "start_time": 1712058081.0150626,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "644525499": {
+      "start_time": 1712058431.8481488,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "723438916": {
+      "start_time": 1712061801.1454039,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "375827959": {
+      "start_time": 1712062013.7747784,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "453662701": {
+      "start_time": 1712062967.0472217,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "795708597": {
+      "start_time": 1712063912.5054362,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "293221444": {
+      "start_time": 1712065255.3876855,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1612827796": {
+      "start_time": 1712065469.5190253,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "630447650": {
+      "start_time": 1712069648.524135,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "389684763": {
+      "start_time": 1712071077.8739932,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "341537425": {
+      "start_time": 1712072636.59416,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "718469664": {
+      "start_time": 1712074276.5653157,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1738924995": {
+      "start_time": 1712077634.2545507,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "6723460107": {
+      "start_time": 1712080989.2737536,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "448115895": {
+      "start_time": 1712083629.9407604,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1106305614": {
+      "start_time": 1712085041.4282148,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "177599935": {
+      "start_time": 1712085586.0403285,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "147460414": {
+      "start_time": 1712087131.8309627,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "538503572": {
+      "start_time": 1712087618.1617012,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "976216004": {
+      "start_time": 1712088707.1765568,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "288862618": {
+      "start_time": 1712095280.7581441,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "930070514": {
+      "start_time": 1712096177.3044386,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "274089218": {
+      "start_time": 1712110430.22351,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1652612717": {
+      "start_time": 1712115981.8434682,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "153292141": {
+      "start_time": 1712122636.0896914,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1891712997": {
+      "start_time": 1712125393.2921042,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1380194840": {
+      "start_time": 1712129330.3171027,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "802306217": {
+      "start_time": 1712132892.074171,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "49175189": {
+      "start_time": 1712133360.17442,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "178501251": {
+      "start_time": 1712133837.6510856,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "5539559415": {
+      "start_time": 1712134525.8183153,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "897248785": {
+      "start_time": 1712136457.7137787,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "2039824785": {
+      "start_time": 1712136894.467155,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "967257144": {
+      "start_time": 1712138258.4595463,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "261107158": {
+      "start_time": 1712140996.4140434,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1761857363": {
+      "start_time": 1712141271.7171733,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "411367538": {
+      "start_time": 1712141508.2326863,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "165393934": {
+      "start_time": 1712143068.9609206,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "976850822": {
+      "start_time": 1712145673.139187,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "644624262": {
+      "start_time": 1712146569.1227386,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "343834238": {
+      "start_time": 1712153673.5061526,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "741096176": {
+      "start_time": 1712159153.7141519,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "496240394": {
+      "start_time": 1712169100.6349537,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "498491580": {
+      "start_time": 1712170130.3687239,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "425350819": {
+      "start_time": 1712172404.2484763,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "852434305": {
+      "start_time": 1712173385.5808568,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1041296202": {
+      "start_time": 1712205098.7866275,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1150354680": {
+      "start_time": 1712219736.7306397,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "406297247": {
+      "start_time": 1712244054.9214413,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "458666566": {
+      "start_time": 1712250422.3686526,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "465196506": {
+      "start_time": 1712260432.5635226,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1201977125": {
+      "start_time": 1712261527.1464942,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "277191552": {
+      "start_time": 1712264853.121918,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "225676640": {
+      "start_time": 1712281117.0846295,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "234267029": {
+      "start_time": 1712298861.7196984,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1607608681": {
+      "start_time": 1712310824.5993247,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "435753011": {
+      "start_time": 1712311398.4490278,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1157462621": {
+      "start_time": 1712330180.0953097,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "152699380": {
+      "start_time": 1712337292.9800334,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "478483429": {
+      "start_time": 1712389308.8302982,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "344396797": {
+      "start_time": 1712406314.680224,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "100803608": {
+      "start_time": 1712410460.010208,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "751975896": {
+      "start_time": 1712418866.7240496,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "171738833": {
+      "start_time": 1712421210.1306279,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1531977364": {
+      "start_time": 1712421689.2336948,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "112762151": {
+      "start_time": 1712441578.5603418,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "660190721": {
+      "start_time": 1712474948.0293727,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1459952452": {
+      "start_time": 1712545306.2614603,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "263634233": {
+      "start_time": 1712554334.6325371,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "818686018": {
+      "start_time": 1712557298.4715004,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "219220530": {
+      "start_time": 1712558969.5036218,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "442276915": {
+      "start_time": 1712560830.036441,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "936730466": {
+      "start_time": 1712569870.9955084,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "694035056": {
+      "start_time": 1712643700.687624,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1320390037": {
+      "start_time": 1712649559.0316508,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "901389231": {
+      "start_time": 1712750535.98265,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "222647895": {
+      "start_time": 1712751337.7130983,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1284314552": {
+      "start_time": 1712763575.6521227,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "6794205539": {
+      "start_time": 1712827104.6095548,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1565214379": {
+      "start_time": 1712833109.5737329,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "129729430": {
+      "start_time": 1712855891.9643102,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "399803756": {
+      "start_time": 1712907798.6456509,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "921312544": {
+      "start_time": 1712933094.172765,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "6568057484": {
+      "start_time": 1712962671.9660861,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "532275035": {
+      "start_time": 1713007548.0062096,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "587722222": {
+      "start_time": 1713083673.7084813,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "6268641729": {
+      "start_time": 1713272873.0859532,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "2011037334": {
+      "start_time": 1713334688.2689831,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1441177550": {
+      "start_time": 1713388455.9150934,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "833310059": {
+      "start_time": 1713581767.101789,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "321385987": {
+      "start_time": 1713599441.7245166,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "471077694": {
+      "start_time": 1713711968.6242673,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "1317013946": {
+      "start_time": 1714059334.57472,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "773803261": {
+      "start_time": 1714121285.6241837,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "527992483": {
+      "start_time": 1714221089.4753828,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "966427071": {
+      "start_time": 1714681120.420148,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "269629986": {
+      "start_time": 1714723577.2231035,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "739037029": {
+      "start_time": 1715013183.1529086,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "304920356": {
+      "start_time": 1715118892.788161,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1471623941": {
+      "start_time": 1715967058.3081703,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "626367096": {
+      "start_time": 1716358316.4171104,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "405844928": {
+      "start_time": 1716448839.2585685,
+      "start_bot": true,
+      "complete_questions": true
+    },
+    "332578679": {
+      "start_time": 1716706209.6415381,
+      "start_bot": true,
+      "complete_questions": false
+    }
+  },
+  "statistic": {
+    "started": 391,
+    "finished": 265
+  }
+}root@2766719-xn41013:~/Nikitos_Daniil_design_bot/data/users_data# cat mentor_stt.json
+{
+  "users": {
+    "774127719": {
+      "start_time": 1716468600.3090086,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "648305412": {
+      "start_time": 1713463621.9113388,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "785561885": {
+      "start_time": 1711735616.289843,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1263714814": {
+      "start_time": 1711713861.3559215,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1748441153": {
+      "start_time": 1711714285.1649895,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1920528275": {
+      "start_time": 1711717550.895401,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "5398197872": {
+      "start_time": 1711717643.1937068,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "5885148008": {
+      "start_time": 1711718115.2609363,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "343482458": {
+      "start_time": 1711732941.836073,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "766819752": {
+      "start_time": 1711741500.9789348,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "322988033": {
+      "start_time": 1711791831.1436248,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "2025545531": {
+      "start_time": 1711791956.0026727,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "889904181": {
+      "start_time": 1711793851.1747723,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1041408532": {
+      "start_time": 1711801469.1929593,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "2119071122": {
+      "start_time": 1711804677.5503523,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "811876830": {
+      "start_time": 1711804900.9721916,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "318581768": {
+      "start_time": 1711808362.8701844,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1063984734": {
+      "start_time": 1711809916.9908886,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "841188425": {
+      "start_time": 1711824207.2025821,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1089056730": {
+      "start_time": 1711876247.6597824,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "969009728": {
+      "start_time": 1711888116.6655946,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1475374338": {
+      "start_time": 1711889649.8449304,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "971311051": {
+      "start_time": 1711918097.0924215,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "862413671": {
+      "start_time": 1711956098.1029258,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1386249263": {
+      "start_time": 1711960294.675097,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1018538641": {
+      "start_time": 1711983673.488783,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "736077170": {
+      "start_time": 1711990748.9374235,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "505547328": {
+      "start_time": 1712046162.702618,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "248054633": {
+      "start_time": 1712047404.797154,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1065203682": {
+      "start_time": 1712133905.6122444,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1565214379": {
+      "start_time": 1712832794.979225,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "6268641729": {
+      "start_time": 1713273003.7688305,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "833310059": {
+      "start_time": 1713581840.919066,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "5634147102": {
+      "start_time": 1713884053.897743,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "966427071": {
+      "start_time": 1714681186.115781,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "984156369": {
+      "start_time": 1716740358.645248,
+      "start_bot": true,
+      "complete_questions": false
+    }
+  },
+  "statistic": {
+    "started": 36,
+    "finished": 0
+  }
+}root@2766719-xn41013:~/Nikitos_Daniil_design_bot/data/users_data# cd send_link_ata.json
+-bash: cd: send_link_data.json: Not a directory
+root@2766719-xn41013:~/Nikitos_Daniil_design_bot/data/users_data# cat send_link_data.json
+{
+  "users": {
+    "774127719": {
+      "start_time": 1716096661.1217942,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "648305412": {
+      "start_time": 1716798311.5988536,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "785561885": {
+      "start_time": 1716798276.4676032,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1748441153": {
+      "start_time": 1711714288.5125566,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "786981474": {
+      "start_time": 1711714302.620615,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "5031137337": {
+      "start_time": 1711714641.5696383,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1302063263": {
+      "start_time": 1711715469.8942163,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "701016212": {
+      "start_time": 1711716098.0309443,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "248566344": {
+      "start_time": 1711717232.117409,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1920528275": {
+      "start_time": 1711718098.1204536,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "5885148008": {
+      "start_time": 1711718118.6101196,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "6289860032": {
+      "start_time": 1711722117.7736323,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "586671526": {
+      "start_time": 1711727604.3780084,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "343482458": {
+      "start_time": 1711732956.1202426,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "557547825": {
+      "start_time": 1711791097.5006907,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "294720083": {
+      "start_time": 1711791116.4027023,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "391968657": {
+      "start_time": 1711791129.8421378,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "439405139": {
+      "start_time": 1711791646.6736963,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "372691818": {
+      "start_time": 1711792682.1822262,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "496084129": {
+      "start_time": 1711796207.6532464,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "65987590": {
+      "start_time": 1711797808.3924308,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "238934507": {
+      "start_time": 1711799778.2874334,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "255497295": {
+      "start_time": 1711800499.8133497,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1307116683": {
+      "start_time": 1711800682.6565988,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1250346472": {
+      "start_time": 1711800869.8834176,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "236869288": {
+      "start_time": 1711801655.6502473,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1840347901": {
+      "start_time": 1711802221.9881136,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "374343221": {
+      "start_time": 1711804075.4036078,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "2119071122": {
+      "start_time": 1711805158.95753,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "497836371": {
+      "start_time": 1711805231.9155476,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "5541906089": {
+      "start_time": 1711806076.4561937,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "851929273": {
+      "start_time": 1711806776.0496955,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1065774117": {
+      "start_time": 1711807206.189415,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "318581768": {
+      "start_time": 1711808297.7525842,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "831734650": {
+      "start_time": 1711813468.6140926,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1322798245": {
+      "start_time": 1711820250.6234493,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "6260261148": {
+      "start_time": 1711821830.6319277,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "864482035": {
+      "start_time": 1711841088.463252,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "916168771": {
+      "start_time": 1711869639.7465687,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "5440182348": {
+      "start_time": 1711886519.588861,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1706368425": {
+      "start_time": 1711886589.6057673,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "5601851838": {
+      "start_time": 1711887400.1327624,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "969009728": {
+      "start_time": 1711888189.9238214,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "218501507": {
+      "start_time": 1711889480.9573853,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1475374338": {
+      "start_time": 1711889666.9858887,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "650116970": {
+      "start_time": 1711889750.9066951,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "5162994334": {
+      "start_time": 1711894286.6266522,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "763481314": {
+      "start_time": 1711897790.542071,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "6821637955": {
+      "start_time": 1711902335.146712,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1218201960": {
+      "start_time": 1711908555.9372292,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1852003706": {
+      "start_time": 1711937500.9817944,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "830596223": {
+      "start_time": 1711948143.360875,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1698789654": {
+      "start_time": 1711949570.6470182,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "293145392": {
+      "start_time": 1711951750.3389573,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "597598540": {
+      "start_time": 1711963094.7431276,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "640091857": {
+      "start_time": 1711965776.01468,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "5145126430": {
+      "start_time": 1711976004.1867378,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "293122187": {
+      "start_time": 1711994257.5895212,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "450450213": {
+      "start_time": 1712004783.6410582,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "5737464870": {
+      "start_time": 1712020839.9131021,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "664643792": {
+      "start_time": 1712039718.4991,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "432954147": {
+      "start_time": 1712047109.215408,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "875411157": {
+      "start_time": 1712047678.488036,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "479946440": {
+      "start_time": 1712047800.636321,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "292380185": {
+      "start_time": 1712048009.1375563,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "996220433": {
+      "start_time": 1712054546.6567569,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "883693607": {
+      "start_time": 1712058006.5467618,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "6723460107": {
+      "start_time": 1712078066.340694,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1172809214": {
+      "start_time": 1712124286.8791914,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "260023871": {
+      "start_time": 1712143161.3079376,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "311356009": {
+      "start_time": 1712150690.4114416,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "741096176": {
+      "start_time": 1712159492.3597994,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "878523175": {
+      "start_time": 1712181316.12926,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "451651038": {
+      "start_time": 1712215722.3986259,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "997645451": {
+      "start_time": 1712242467.000858,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "901028987": {
+      "start_time": 1712290966.1932611,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "478483429": {
+      "start_time": 1712389297.0232816,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "100803608": {
+      "start_time": 1712412561.0469198,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "2108702349": {
+      "start_time": 1712470577.6655085,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "938674874": {
+      "start_time": 1712650406.179347,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1325046247": {
+      "start_time": 1713141906.1682866,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1637304914": {
+      "start_time": 1713263770.9215395,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "6268641729": {
+      "start_time": 1713272991.781412,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "471077694": {
+      "start_time": 1713711825.1317697,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1448073091": {
+      "start_time": 1713972950.3747547,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "527992483": {
+      "start_time": 1714220717.7560112,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "966427071": {
+      "start_time": 1714681155.0443351,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "5027689940": {
+      "start_time": 1715005252.8952186,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "297270880": {
+      "start_time": 1715770971.9742937,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "626367096": {
+      "start_time": 1716358225.2223024,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "984156369": {
+      "start_time": 1716740361.604383,
+      "start_bot": true,
+      "complete_questions": false
+    }
+  },
+  "statistic": {
+    "started": 91,
+    "finished": 0
+  }
+}root@2766719-xn41013:~/Nikitos_Daniil_design_bot/data/users_data#

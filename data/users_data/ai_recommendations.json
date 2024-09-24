@@ -1,0 +1,63 @@
+{
+  "users": {
+    "774127719": {
+      "start_time": 1718900353.1281905,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "843356160": {
+      "start_time": 1718059882.2275782,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "648305412": {
+      "start_time": 1718820193.1244552,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "966427071": {
+      "start_time": 1718453939.8657146,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "785561885": {
+      "start_time": 1718233068.1265218,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "789157432": {
+      "start_time": 1718273082.0149486,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1448073091": {
+      "start_time": 1718293911.0718977,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "316894521": {
+      "start_time": 1718699642.7329214,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "936175634": {
+      "start_time": 1718699668.3643718,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "916742195": {
+      "start_time": 1718699677.9830241,
+      "start_bot": true,
+      "complete_questions": false
+    },
+    "1036107926": {
+      "start_time": 1718961156.4999797,
+      "start_bot": true,
+      "complete_questions": false
+    }
+  },
+  "statistic": {
+    "started": 11,
+    "finished": 0
+  }
+}
